@@ -1,0 +1,7 @@
+headers	id	visit	site	gender
+111	aaa	1	x	m
+111	bbb	1	x	f
+333	ccc	1	y	m
+444	ddd	2	y	f
+555	eee	2	z	m
+555	ccc	2	z	m
